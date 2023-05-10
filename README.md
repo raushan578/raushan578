@@ -1,4 +1,4 @@
-
+![logo](https://github.com/raushan578/raushan578/blob/main/1673965012668.jpg)
 <h1 align="center">Hi 👋, I'm Raushan Raj</h1>
 <h3 align="center">Full Stack Web/App Developer</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif" ></img>

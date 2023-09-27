@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raushan Raj</h1>
 <h3 align="center">Full Stack App/Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://4kwallpapers.com/images/wallpapers/programmer-quotes-3840x2160-10620.png" />
+<img align="right" alt="coding" width="400" src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan578&label=Profile%20views&color=0e75b6&style=flat" alt="raushan578" /> </p>
 

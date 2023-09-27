@@ -1,7 +1,35 @@
 
 <h1 align="center">Hi 👋, I'm Raushan Raj</h1>
 <h3 align="center">Full Stack App/Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg" />
+<img
+  align="right"
+  alt="coding"
+  width="400"
+  src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg"
+  style="
+    border-radius: 50%; /* Add a circular border radius */
+    animation: moveRandomly 5s linear infinite; /* Add a random movement animation */
+  "
+/>
+<style>
+  @keyframes moveRandomly {
+    0% {
+      transform: translate(0, 0);
+    }
+    25% {
+      transform: translate(50px, 50px);
+    }
+    50% {
+      transform: translate(0, 0);
+    }
+    75% {
+      transform: translate(-50px, -50px);
+    }
+    100% {
+      transform: translate(0, 0);
+    }
+  }
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan578&label=Profile%20views&color=0e75b6&style=flat" alt="raushan578" /> </p>
 

@@ -6,30 +6,9 @@
   alt="coding"
   width="400"
   src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg"
-  style="
-    border-radius: 50%; /* Add a circular border radius */
-    animation: moveRandomly 5s linear infinite; /* Add a random movement animation */
-  "
+  style="border-radius: 20px;"
 />
-<style>
-  @keyframes moveRandomly {
-    0% {
-      transform: translate(0, 0);
-    }
-    25% {
-      transform: translate(50px, 50px);
-    }
-    50% {
-      transform: translate(0, 0);
-    }
-    75% {
-      transform: translate(-50px, -50px);
-    }
-    100% {
-      transform: translate(0, 0);
-    }
-  }
-</style>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan578&label=Profile%20views&color=0e75b6&style=flat" alt="raushan578" /> </p>
 

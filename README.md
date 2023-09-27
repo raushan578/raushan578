@@ -1,4 +1,4 @@
-![logo](https://github.com/raushan578/raushan578/blob/main/Blue%20Gradient%20Modern%20LinkedIn%20Banner%20(2).png?raw=true)
+![logo](https://banner2.cleanpng.com/20190719/av/kisspng-software-developer-computer-software-web-developme-web-amp-mobile-app-analytics-platform-for-develo-5d32885dc83d30.2176655015635927978202.jpg)
 <h1 align="center">Hi 👋, I'm Raushan Raj</h1>
 <h3 align="center">Full Stack Web/App Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React js, Node js, Mongodb, Express js, DSA**
+- 💬 Ask me about **React Native,React js, Node js, Mongodb, Express js, DSA**
 
 - 📫 How to reach me **oppoa5sraj@gmail.com**
 

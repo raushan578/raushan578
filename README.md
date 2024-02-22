@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Raushan Raj</h1>
-<h3 align="center">Full Stack App/Web Developer</h3>
+<h1 align="center">Hi there, I'm Raushan Raj 👋</h1>
+<h3 align="center">Crafting tomorrow's solutions with today's code — one commit at a time. 💻✨</h3>
+<h3 align="center">Full Stack App / Web Developer</h3>
 <img
   align="right"
   alt="coding"
@@ -12,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan578&label=Profile%20views&color=0e75b6&style=flat" alt="raushan578" /> </p>
  
-- 📲 **🌟 Currently Crafting Innovative Apps & Native Modules for Android**
+📲 **🌟 Currently Crafting Innovative Apps & Native Modules for Android**
 
  **🌟 Specializing In:**
 - Mobile & Web Development: React Native, React.js Frameworks

@@ -24,7 +24,7 @@
 - State Management & Workflow: Redux,Redux Thunk,Redux Saga,Zustand,Recoil
 - Cloud Services & APIs: Firebase,Notifee,Google Maps API, AWS (EC2 instances, S3 buckets, Route 53 & more...)
 
-- 📫 How to reach me **oppoa5sraj@gmail.com**
+- 📫 How to reach me **raushanr9001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk](https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk)
 

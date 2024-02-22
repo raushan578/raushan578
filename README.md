@@ -6,7 +6,7 @@
   align="right"
   alt="coding"
   width="400"
-  src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg"
+  src="https://codeplateau-website.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/02/04083158/mardf.png"
   style="border-radius: 20px;"
 />
 

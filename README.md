@@ -11,8 +11,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan578&label=Profile%20views&color=0e75b6&style=flat" alt="raushan578" /> </p>
-
-- 🌱 I’m currently working on **App Development**
+ 
+- 📲 **🌟 Currently Crafting Innovative Apps & Native Modules for Android**
 
  **🌟 Specializing In:**
 - Mobile & Web Development: React Native, React.js Frameworks

@@ -19,7 +19,7 @@
 - Mobile & Web Development: React Native, React.js Frameworks
 - Back-End Solutions: Node.js, Express.js,Next Js 
 - Database Management: MongoDB,SQLite
-- DevOps & Collaboration Tools: Git, Postman,ThunderClient
+- DevOps & Collaboration Tools: Git, Postman,ThunderClient, CI/CD, Docker, Jira, Kubernetes🛞
 - UI/UX Design: HTML5, CSS3, Materialize, Bootstrap
 - State Management & Workflow: Redux,Redux Thunk,Redux Saga,Zustand,Recoil
 - Cloud Services & APIs: Firebase,Notifee,Google Maps API, AWS (EC2 instances, S3 buckets, Route 53 & more...)

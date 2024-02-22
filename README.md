@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently working on **App Development**
 
-- **🌟 Specializing In:**
+ **🌟 Specializing In:**
 - Mobile & Web Development: React Native, React.js Frameworks
 - Back-End Solutions: Node.js, Express.js,Next Js 
 - Database Management: MongoDB,SQLite

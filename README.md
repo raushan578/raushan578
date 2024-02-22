@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk](https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk)
 
-- ⚡ Fun fact **I think i am funny 😄**
+- ⚡ Venturing in  **Startups**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

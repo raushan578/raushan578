@@ -14,13 +14,20 @@
 
 - 🌱 I’m currently working on **App Development**
 
-- 💬 Ask me about **React Native,React js, Node js, Mongodb, Express js, DSA**
+- 💬 Ask me about **🌟 Specializing In:**
+- Mobile & Web Development: React Native, React.js Frameworks
+- Back-End Solutions: Node.js, Express.js,Next Js 
+- Database Management: MongoDB,SQLite
+- DevOps & Collaboration Tools: Git, Postman,ThunderClient
+- UI/UX Design: HTML5, CSS3, Materialize, Bootstrap
+- State Management & Workflow: Redux,Redux Thunk,Redux Saga,Zustand,Recoil
+- Cloud Services & APIs: Firebase,Notifee,Google Maps API, AWS (EC2 instances, S3 buckets, Route 53 & more...)
 
 - 📫 How to reach me **oppoa5sraj@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk](https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk)
 
-- ⚡ Venturing in  **Startups**
+- ⚡ Venturing in  **Startups Clutures & Ecosystem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raushan-raj-22a8171b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan-raj-22a8171b8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raushan-raj-22a8171b8" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20230930/original/pngtree-internet-of-things-programmer-3d-character-png-image_13023475.png" alt="raushan-raj-22a8171b8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oppoa5sraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oppoa5sraj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/oppoa5sraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="oppoa5sraj" height="30" width="40" /></a>
 </p>

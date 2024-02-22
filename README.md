@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40" style="margin-right: 10px;"/> 
+    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/> 

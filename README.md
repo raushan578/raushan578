@@ -19,29 +19,31 @@
 ---
 
 ### 🌟 About Me  
-- 📲 Currently building **Innovative Apps & Native Modules for Android**  
-- 🛠️ Passionate about **Scalable Systems, Microservices & DevOps**  
-- ⚡ Exploring the **Startup Ecosystem & Tech Innovation**  
+- 📲 Currently building **Innovative Apps & Native Modules for Android (React Native)**  
+- 🛠️ Passionate about **Scalable Architectures & System Design**  
+- 🚀 Love experimenting with **Startup Culture & Emerging Tech**  
 - 📫 Reach me at: **raushanr9001@gmail.com**  
 - 📄 [View my Resume](https://drive.google.com/drive/u/0/folders/1XMetKwqOLqBYqJvo0xPzXyc-S2zzYaRk)  
 
 ---
 
 ### 🔥 Tech Arsenal  
-**Frontend & Mobile**  
-`React.js` · `Next.js` · `React Native` · `Redux / Zustand / Recoil` · `Materialize` · `Bootstrap`  
 
-**Backend**  
-`Node.js` · `Express.js` · `NestJS` · `Microservices`  
+**Frontend & Mobile**  
+`React Native (Custom Native Modules, Native Bridges)` · `React.js` · `Next.js 14 (App Router, Server Actions)` · `TypeScript` · `Redux Toolkit / Zustand / Recoil` · `Material UI` · `TailwindCSS` · `Storybook` · `Web Performance Optimization (Lighthouse, Core Web Vitals)`  
+
+**Backend & Architecture**  
+`Node.js` · `Express.js` · `NestJS` · `REST & GraphQL APIs` · `gRPC` · `Event-Driven Architecture (Kafka, RabbitMQ, NATS)` · `CQRS & DDD` · `Microservices` · `Monorepo Management (Nx, Turborepo)` · `Scalable System Design` · `Caching Strategies (Redis, Memcached)`  
 
 **Databases**  
-`MongoDB` · `SQLite`  
+`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `ORMs (Prisma, TypeORM, Sequelize)` · `Database Sharding & Replication` · `Query Optimization`  
 
 **Cloud & DevOps**  
-`AWS (ECS, ECR, EC2, S3, Route 53)` · `Docker` · `Kubernetes` · `CI/CD`  
+`AWS (ECS, ECR, EC2, S3, Route 53, Lambda, CloudWatch, RDS)` · `GCP (Cloud Run, Firestore)` · `Docker` · `Kubernetes (Helm, Operators)` · `CI/CD (GitHub Actions, GitLab CI, Jenkins)` · `Terraform & IaC` · `NGINX & API Gateways` · `Service Mesh (Istio, Linkerd)` · `Observability (Grafana, Prometheus, ELK Stack, OpenTelemetry)`  
 
-**Other Tools**  
-`Firebase` · `Notifee` · `Google Maps API` · `Git` · `Postman / ThunderClient` · `Jira`  
+**Other Tools & APIs**  
+`Firebase` · `Notifee` · `Google Maps API` · `Cloudflare (CDN, Workers, Zero Trust)` · `Stripe / PayU / Razorpay` · `Auth0 / OAuth 2.0 / JWT` · `WebSockets & Socket.IO` · `Git (GitFlow, Trunk-Based)` · `Postman / ThunderClient` · `Jira` · `Agile / Scrum`  
+
 
 ---
 
@@ -56,7 +58,7 @@
 
 ### 🛠 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,ts,mongodb,nextjs,nodejs,postman,react,redux,firebase,git,html,java,materialui,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,docker,kubernetes,aws,firebase,git,postman,html,java,materialui" />
 </p>
 
 ---
@@ -64,7 +66,6 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raushan578&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushan578&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
 ---

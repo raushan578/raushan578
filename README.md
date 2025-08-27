@@ -17,8 +17,8 @@
 
  **🌟 Specializing In:**
 - Mobile & Web Development: React Native, React.js Frameworks
-- AWS ( ECS, ECR, DOCKER ) , MICROSERVICES >>>
-- Back-End Solutions: Node.js, Express.js,Next Js 
+- Back-End Solutions: Node.js, Express.js, Nest Js
+- AWS ( ECS, ECR, DOCKER ) , Microservices 
 - Database Management: MongoDB,SQLite
 - DevOps & Collaboration Tools: Git, Postman,ThunderClient, CI/CD, Docker, Jira, Kubernetes🛞
 - UI/UX Design: HTML5, CSS3, Materialize, Bootstrap

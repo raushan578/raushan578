@@ -58,7 +58,10 @@
 
 ### 🛠 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,postgres,docker,kubernetes,aws,elasticsearch,rabbitmq,firebase,git,postman,html,java,js,materialui,cloudflare,github,linux,ubuntu,unreal,workers,nginx,prometheus" />
+  <a href="https://www.linkedin.com/in/raushan-raj-22a8171b8" target="_blank">
+
+  <img alt="linkedin" src="https://skillicons.dev/icons?i=react,androidstudio,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,postgres,docker,kubernetes,aws,elasticsearch,rabbitmq,firebase,git,postman,html,java,js,materialui,cloudflare,github,linux,ubuntu,unreal,workers,nginx,prometheus" />
+</a>
 </p>
 
 

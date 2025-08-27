@@ -61,7 +61,6 @@
   <img src="https://skillicons.dev/icons?i=react,androidstudio,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,postgres,docker,kubernetes,aws,elasticsearch,rabbitmq,firebase,git,postman,html,java,js,materialui,cloudflare,github,linux,ubuntu,unreal,workers,nginx,prometheus" />
 </p>
 
----
 
 
 ---

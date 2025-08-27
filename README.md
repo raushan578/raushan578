@@ -58,15 +58,11 @@
 
 ### 🛠 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,docker,kubernetes,aws,firebase,git,postman,html,java,materialui](https://skillicons.dev/icons?i=react,androidstudio,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,postgres,docker,kubernetes,aws,elasticsearch,rabbitmq,firebase,git,postman,html,java,js,materialui,cloudflare,github,linux,ubuntu,unreal,workers,nginx,prometheus" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,nextjs,redux,ts,nodejs,nestjs,mongodb,sqlite,postgres,docker,kubernetes,aws,elasticsearch,rabbitmq,firebase,git,postman,html,java,js,materialui,cloudflare,github,linux,ubuntu,unreal,workers,nginx,prometheus" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushan578&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-</p>
 
 ---
 

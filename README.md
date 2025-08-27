@@ -66,4 +66,4 @@
 
 ---
 
-⭐️ *“Code is not just code — it’s the bridge between ideas and impact.”* 🚀
+⭐️ *Code is not just code — it’s the bridge between ideas and impact.* 🚀

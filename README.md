@@ -50,7 +50,7 @@
 ### 🤝 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/raushan-raj-22a8171b8" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/></a>
-<a href="https://www.leetcode.com/oppoa5sraj" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" height="40"/></a>
+<a href="https://www.leetcode.com/oppoa5sraj" target="blank"><img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png" alt="leetcode" height="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/oppoa5sraj" target="blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="gfg" height="40"/></a>
 </p>
 
